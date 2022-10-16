@@ -127,7 +127,7 @@ Figure 1: Databricks user menu
 
 Multiple clusters can exist within a workspace, and there’s a one-to-many mapping between a Subscription to Workspaces, and further, from one Workspace to multiple Clusters. 
 
-![Figure 2: Azure Databricks Isolation Domains Workspace](https://github.com/Azure/AzureDatabricksBestPractices/blob/master//Images/Figures/Figure3.PNG "Figure 3: Azure Databricks Isolation Domains Workspace")
+![Figure 2: Azure Databricks Isolation Domains Workspace](./Assets/Images/Figures/Figure3.PNG "Figure 3: Azure Databricks Isolation Domains Workspace")
 
 *Figure 2: Relationship Between AAD, Workspace, Resource Groups, and Clusters
 
